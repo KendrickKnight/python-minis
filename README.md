@@ -4,7 +4,7 @@ I have Fears and due to them, i cant finish programming projects anymore... so i
 Projects below are to keep track of the projects i find that feel small enough that can be done in one sitting.
 
 ## Projects
-- [ ] String Reverser
+- [x] String Reverser
 - [ ] Word frequency Counter
 - [ ] Palindrome  detector
 - [ ] CSV Parser (no libraries)
