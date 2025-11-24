@@ -5,7 +5,7 @@ Projects below are to keep track of the projects i find that feel small enough t
 
 ## Projects
 - [x] String Reverser
-- [ ] Word frequency Counter
+- [x] Word frequency Counter
 - [ ] Palindrome  detector
 - [ ] CSV Parser (no libraries)
 - [ ] Mini Jason Validator
